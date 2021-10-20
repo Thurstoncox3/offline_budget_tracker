@@ -1,7 +1,6 @@
 const FILES_TO_CACHE = [
+    '/index.html',
     '/',
-    '/idnex.html',
-    '/favicon.ico',
     '/index.js',
     '/styles.css',
     '/icons/icon-192x192.png',
